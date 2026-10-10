@@ -1,0 +1,10 @@
+__pycache__/
+.ipynn_checkpoints/
+.venv/
+*.py[cod]
+data/raw/*
+!data/raw/README.md
+*.log
+.DS_Store
+Thumbs.db
+

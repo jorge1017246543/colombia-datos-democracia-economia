@@ -1,0 +1,4 @@
+metric,value,unit,denominator,source_url
+Second-round turnout,58.17,percent,"39,002,239 eligible voters in Colombia and abroad",https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Ballots cast,22687910,people,,https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Eligible voters,39002239,people,,https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html

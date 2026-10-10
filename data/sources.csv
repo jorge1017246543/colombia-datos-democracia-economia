@@ -1,0 +1,19 @@
+source_id,institution,resource,period,format,url,role,access_note
+ECP_BULLETIN,DANE,Encuesta de Cultura Política: Boletín técnico,2023,PDF,https://www.dane.gov.co/files/operaciones/ECP/bol-ECP-2023.pdf,Official weighted aggregate estimates,Open publication
+ECP_PRESENTATION,DANE,Encuesta de Cultura Política: Presentación,2019-2023,PDF,https://www.dane.gov.co/files/operaciones/ECP/pres-ECP-2023.pdf,Political news channels and attitudes,Open publication
+ECP_QUESTIONNAIRE,DANE,Formulario Encuesta de Cultura Política,2023,PDF,https://www.dane.gov.co/files/operaciones/ECP/Formulario_ECP_2023%20_VF.pdf,Question wording and routing,Open publication
+ECP_MICRODATA,DANE,Encuesta de Cultura Política: microdatos anonimizados,2023,Microdata,https://microdatos.dane.gov.co/index.php/catalog/822/get-microdata,Individual-level extension,Manual download through CAPTCHA; do not redistribute
+POPULATION,DANE,Proyecciones de población departamental,2018-2050,XLSX,https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion,Demographic context and official projections,Open attachment listed on DANE page
+GDP_2024,DANE,PIB nacional segundo trimestre,2024 Q2,PDF,https://www.dane.gov.co/files/operaciones/PIB/pres-PIB-IItrim2024.pdf,Real GDP growth,Open publication
+GDP_2025,DANE,PIB nacional segundo trimestre,2025 Q2,PDF,https://www.dane.gov.co/files/operaciones/PIB/cp-PIB-IItrim2025.pdf,Real GDP growth,Open publication
+GDP_2026,DANE,PIB nacional segundo trimestre,2026 Q2,Web and XLSX,https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-trimestrales/pib-informacion-tecnica,Latest real GDP release,Open publication
+CPI_2024,DANE,IPC septiembre,2024 Sep,PDF,https://www.dane.gov.co/files/operaciones/IPC/cp-IPC-sep2024.pdf,Annual CPI inflation,Open publication
+CPI_2025,DANE,IPC septiembre,2025 Sep,PDF,https://www.dane.gov.co/files/operaciones/IPC/sep2025/cp-IPC-sep2025.pdf,Annual CPI inflation,Open publication
+CPI_2026,DANE,IPC información técnica,2026 Sep,Web and XLSX,https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc/ipc-informacion-tecnica,Latest annual CPI inflation,Open publication
+GEIH_2024,DANE,GEIH mercado laboral agosto,2024 Aug,PDF,https://www.dane.gov.co/files/operaciones/GEIH/cp-GEIH-ago2024.pdf,Unemployment rate,Open publication
+GEIH_2025,DANE,GEIH mercado laboral agosto,2025 Aug,PDF,https://www.dane.gov.co/files/operaciones/GEIH/cp-GEIH-ago2025.pdf,Unemployment rate,Open publication
+GEIH_2026,DANE,GEIH mercado laboral agosto,2026 Aug,Web and XLSX,https://www.dane.gov.co/index.php?catid=1&id=2921&option=com_content&view=article,Latest unemployment rate,Open publication
+ELECTION_2022,Registraduría,Resultados de escrutinio segunda vuelta presidencial,2022,Web page,https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html,Official national turnout and candidate counts,99.97% of tables at time of report; municipal count
+LITERATURE_RESTREPO,Universidad Nacional de Colombia,Redes sociales y participación política en las elecciones presidenciales de 2022 en Colombia,2023,Journal article,https://doi.org/10.15446/anpol.v36n106.111058,Qualitative research context,Peer-reviewed research
+LITERATURE_CAMBRIDGE,Cambridge University Press,Tweeting Antagonism: (De)Polarizing Rhetoric and Tone in Colombia’s 2022 Presidential Campaign,2024,Journal article,https://doi.org/10.1017/LAP.2024.14,Qualitative research context,Peer-reviewed research
+

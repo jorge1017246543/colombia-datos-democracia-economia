@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this portfolio project, please cite it as follows."
+title: "Colombia in Data: Democracy, Digital Conversation & the Economy"
+type: software
+authors:
+  - name: "jorge1017246543"
+version: 1.0.0
+date-released: 2026-10-08
+repository-code: "https://github.com/jorge1017246543/colombia-datos-democracia-economia"
+license: MIT
+abstract: >-
+  Beginner-friendly data analytics portfolio project combining official
+  Colombian statistics on political information channels, participation,
+  public opinion, demographics, and recent economic indicators.
+

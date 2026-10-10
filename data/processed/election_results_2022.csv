@@ -1,0 +1,7 @@
+category,candidate_or_status,votes,share_percent,denominator,source_url
+Candidate,Gustavo Petro,11291986,50.42,"Valid votes including blank votes; percentage calculated from official vote counts",https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Candidate,Rodolfo Hernández,10604337,47.35,"Valid votes including blank votes; percentage calculated from official vote counts",https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Blank vote,Votos en blanco,500043,2.23,"Valid votes including blank votes; percentage calculated from official vote counts",https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Nonvalid ballot,Votos nulos,270085,,Ballots counted,https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+Nonmarked ballot,Tarjetas no marcadas,21459,,Ballots counted,https://registraduria.gov.co/En-la-segunda-vuelta-presidencial-del-2022-se-registro-la-abstencion-mas-baja.html
+

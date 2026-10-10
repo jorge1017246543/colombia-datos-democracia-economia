@@ -1,0 +1,5 @@
+# Required only for the optional Jupyter learning notebook.
+pandas>=2.2
+plotly>=5.20
+jupyter>=1.0
+

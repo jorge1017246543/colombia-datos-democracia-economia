@@ -1,0 +1,8 @@
+indicator,group,period,value,unit,source_url,notes
+National population,Total Colombia,2025,52695952,people,https://www.dane.gov.co/index.php/component/content/category/2-uncategorised?Itemid=5039&start=20,DANE key indicator; population projection.
+ECP adult population reference,Total national 18+,2023,37077000,people,https://www.dane.gov.co/files/operaciones/ECP/bol-ECP-2023.pdf,Approximate expanded population shown in thousands in the bulletin.
+ECP adult population reference,Cabeceras municipales 18+,2023,29218000,people,https://www.dane.gov.co/files/operaciones/ECP/bol-ECP-2023.pdf,Approximate expanded population shown in thousands in the bulletin.
+ECP adult population reference,Centros poblados y rural disperso 18+,2023,7859000,people,https://www.dane.gov.co/files/operaciones/ECP/bol-ECP-2023.pdf,Approximate expanded population shown in thousands in the bulletin.
+ECP sample,Respondents 18+,2023,64770,people,https://www.dane.gov.co/index.php/estadisticas-por-tema/gobierno/cultura-politica,Survey respondents; not an estimate of population.
+ECP sample,Households,2023,23145,households,https://www.dane.gov.co/index.php/estadisticas-por-tema/gobierno/cultura-politica,Number of surveyed households.
+

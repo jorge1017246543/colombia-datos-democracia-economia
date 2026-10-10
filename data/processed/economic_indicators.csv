@@ -1,0 +1,11 @@
+indicator,period,value,unit,frequency,comparison_basis,source_url,notes
+GDP real growth,2024 Q2,2.1,percent,Quarterly,Year over year,https://www.dane.gov.co/files/operaciones/PIB/pres-PIB-IItrim2024.pdf,Original volume series; preliminary at publication.
+GDP real growth,2025 Q2,2.1,percent,Quarterly,Year over year,https://www.dane.gov.co/files/operaciones/PIB/cp-PIB-IItrim2025.pdf,Original volume series; preliminary at publication.
+GDP real growth,2026 Q2,3.5,percent,Quarterly,Year over year,https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-trimestrales/pib-informacion-tecnica,Original volume series; preliminary (pr).
+Annual CPI inflation,2024 Sep,5.81,percent,Monthly,Year over year,https://www.dane.gov.co/files/operaciones/IPC/cp-IPC-sep2024.pdf,National total CPI.
+Annual CPI inflation,2025 Sep,5.18,percent,Monthly,Year over year,https://www.dane.gov.co/files/operaciones/IPC/sep2025/cp-IPC-sep2025.pdf,National total CPI.
+Annual CPI inflation,2026 Sep,6.29,percent,Monthly,Year over year,https://www.dane.gov.co/index.php/estadisticas-por-tema/precios-y-costos/indice-de-precios-al-consumidor-ipc/ipc-informacion-tecnica,National total CPI; latest available on 2026-10-08.
+Unemployment rate,2024 Aug,9.7,percent,Monthly,Same month comparison,https://www.dane.gov.co/files/operaciones/GEIH/cp-GEIH-ago2024.pdf,National total.
+Unemployment rate,2025 Aug,8.6,percent,Monthly,Same month comparison,https://www.dane.gov.co/files/operaciones/GEIH/cp-GEIH-ago2025.pdf,National total.
+Unemployment rate,2026 Aug,9.4,percent,Monthly,Same month comparison,https://www.dane.gov.co/index.php?catid=1&id=2921&option=com_content&view=article,National total; latest available on 2026-10-08.
+
