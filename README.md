@@ -1,6 +1,6 @@
 # Colombia en datos: democracia, conversación digital y economía
 
-**Análisis de portafolio bilingüe · Corte de investigación: 8 de octubre de 2026**
+**Análisis de datos · Corte de investigación: 8 de octubre de 2026**
 
 Un proyecto educativo de analítica de datos que integra indicadores oficiales del DANE y la Registraduría para estudiar fuentes de información política, participación, opinión pública, demografía y economía reciente en Colombia. Incluye un dashboard interactivo, datos agregados con trazabilidad y una guía para ampliar el análisis con microdatos sin publicar filas individuales.
 
